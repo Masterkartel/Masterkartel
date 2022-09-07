@@ -3,7 +3,7 @@
 - 🦺 I’m currently learning Software engineering
 - 🤝 I’m looking to collaborate on development projects
 - 📫 How to reach me:
-                    Phone:+254714219632(WhatsApp) 
+                    Phone:+254714219632 (WhatsApp) 
                     Email:lennxkoros@gmail.com 
 
 <!---
